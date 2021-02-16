@@ -1,0 +1,13 @@
+C:\Users\joaop\source\repos\canalArtigas\calculadoraImc\bin\Debug\netcoreapp3.1\calculadoraImc.exe
+C:\Users\joaop\source\repos\canalArtigas\calculadoraImc\bin\Debug\netcoreapp3.1\calculadoraImc.deps.json
+C:\Users\joaop\source\repos\canalArtigas\calculadoraImc\bin\Debug\netcoreapp3.1\calculadoraImc.runtimeconfig.json
+C:\Users\joaop\source\repos\canalArtigas\calculadoraImc\bin\Debug\netcoreapp3.1\calculadoraImc.runtimeconfig.dev.json
+C:\Users\joaop\source\repos\canalArtigas\calculadoraImc\bin\Debug\netcoreapp3.1\calculadoraImc.dll
+C:\Users\joaop\source\repos\canalArtigas\calculadoraImc\bin\Debug\netcoreapp3.1\calculadoraImc.pdb
+C:\Users\joaop\source\repos\canalArtigas\calculadoraImc\obj\Debug\netcoreapp3.1\calculadoraImc.csprojAssemblyReference.cache
+C:\Users\joaop\source\repos\canalArtigas\calculadoraImc\obj\Debug\netcoreapp3.1\calculadoraImc.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\canalArtigas\calculadoraImc\obj\Debug\netcoreapp3.1\calculadoraImc.AssemblyInfo.cs
+C:\Users\joaop\source\repos\canalArtigas\calculadoraImc\obj\Debug\netcoreapp3.1\calculadoraImc.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\canalArtigas\calculadoraImc\obj\Debug\netcoreapp3.1\calculadoraImc.dll
+C:\Users\joaop\source\repos\canalArtigas\calculadoraImc\obj\Debug\netcoreapp3.1\calculadoraImc.pdb
+C:\Users\joaop\source\repos\canalArtigas\calculadoraImc\obj\Debug\netcoreapp3.1\calculadoraImc.genruntimeconfig.cache
