@@ -1,0 +1,13 @@
+C:\Users\joaop\source\repos\canalArtigas\multiplicacaoMatrizes\bin\Debug\netcoreapp3.1\multiplicacaoMatrizes.exe
+C:\Users\joaop\source\repos\canalArtigas\multiplicacaoMatrizes\bin\Debug\netcoreapp3.1\multiplicacaoMatrizes.deps.json
+C:\Users\joaop\source\repos\canalArtigas\multiplicacaoMatrizes\bin\Debug\netcoreapp3.1\multiplicacaoMatrizes.runtimeconfig.json
+C:\Users\joaop\source\repos\canalArtigas\multiplicacaoMatrizes\bin\Debug\netcoreapp3.1\multiplicacaoMatrizes.runtimeconfig.dev.json
+C:\Users\joaop\source\repos\canalArtigas\multiplicacaoMatrizes\bin\Debug\netcoreapp3.1\multiplicacaoMatrizes.dll
+C:\Users\joaop\source\repos\canalArtigas\multiplicacaoMatrizes\bin\Debug\netcoreapp3.1\multiplicacaoMatrizes.pdb
+C:\Users\joaop\source\repos\canalArtigas\multiplicacaoMatrizes\obj\Debug\netcoreapp3.1\multiplicacaoMatrizes.csprojAssemblyReference.cache
+C:\Users\joaop\source\repos\canalArtigas\multiplicacaoMatrizes\obj\Debug\netcoreapp3.1\multiplicacaoMatrizes.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\canalArtigas\multiplicacaoMatrizes\obj\Debug\netcoreapp3.1\multiplicacaoMatrizes.AssemblyInfo.cs
+C:\Users\joaop\source\repos\canalArtigas\multiplicacaoMatrizes\obj\Debug\netcoreapp3.1\multiplicacaoMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\canalArtigas\multiplicacaoMatrizes\obj\Debug\netcoreapp3.1\multiplicacaoMatrizes.dll
+C:\Users\joaop\source\repos\canalArtigas\multiplicacaoMatrizes\obj\Debug\netcoreapp3.1\multiplicacaoMatrizes.pdb
+C:\Users\joaop\source\repos\canalArtigas\multiplicacaoMatrizes\obj\Debug\netcoreapp3.1\multiplicacaoMatrizes.genruntimeconfig.cache
