@@ -1,0 +1,13 @@
+C:\Users\joaop\source\repos\canalArtigas\inverterNomes\bin\Debug\netcoreapp3.1\inverterNomes.exe
+C:\Users\joaop\source\repos\canalArtigas\inverterNomes\bin\Debug\netcoreapp3.1\inverterNomes.deps.json
+C:\Users\joaop\source\repos\canalArtigas\inverterNomes\bin\Debug\netcoreapp3.1\inverterNomes.runtimeconfig.json
+C:\Users\joaop\source\repos\canalArtigas\inverterNomes\bin\Debug\netcoreapp3.1\inverterNomes.runtimeconfig.dev.json
+C:\Users\joaop\source\repos\canalArtigas\inverterNomes\bin\Debug\netcoreapp3.1\inverterNomes.dll
+C:\Users\joaop\source\repos\canalArtigas\inverterNomes\bin\Debug\netcoreapp3.1\inverterNomes.pdb
+C:\Users\joaop\source\repos\canalArtigas\inverterNomes\obj\Debug\netcoreapp3.1\inverterNomes.csprojAssemblyReference.cache
+C:\Users\joaop\source\repos\canalArtigas\inverterNomes\obj\Debug\netcoreapp3.1\inverterNomes.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\canalArtigas\inverterNomes\obj\Debug\netcoreapp3.1\inverterNomes.AssemblyInfo.cs
+C:\Users\joaop\source\repos\canalArtigas\inverterNomes\obj\Debug\netcoreapp3.1\inverterNomes.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\canalArtigas\inverterNomes\obj\Debug\netcoreapp3.1\inverterNomes.dll
+C:\Users\joaop\source\repos\canalArtigas\inverterNomes\obj\Debug\netcoreapp3.1\inverterNomes.pdb
+C:\Users\joaop\source\repos\canalArtigas\inverterNomes\obj\Debug\netcoreapp3.1\inverterNomes.genruntimeconfig.cache
