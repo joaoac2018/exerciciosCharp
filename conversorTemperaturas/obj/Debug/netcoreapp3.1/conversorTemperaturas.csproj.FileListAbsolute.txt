@@ -1,0 +1,13 @@
+C:\Users\joaop\source\repos\canalArtigas\conversorTemperaturas\bin\Debug\netcoreapp3.1\conversorTemperaturas.exe
+C:\Users\joaop\source\repos\canalArtigas\conversorTemperaturas\bin\Debug\netcoreapp3.1\conversorTemperaturas.deps.json
+C:\Users\joaop\source\repos\canalArtigas\conversorTemperaturas\bin\Debug\netcoreapp3.1\conversorTemperaturas.runtimeconfig.json
+C:\Users\joaop\source\repos\canalArtigas\conversorTemperaturas\bin\Debug\netcoreapp3.1\conversorTemperaturas.runtimeconfig.dev.json
+C:\Users\joaop\source\repos\canalArtigas\conversorTemperaturas\bin\Debug\netcoreapp3.1\conversorTemperaturas.dll
+C:\Users\joaop\source\repos\canalArtigas\conversorTemperaturas\bin\Debug\netcoreapp3.1\conversorTemperaturas.pdb
+C:\Users\joaop\source\repos\canalArtigas\conversorTemperaturas\obj\Debug\netcoreapp3.1\conversorTemperaturas.csprojAssemblyReference.cache
+C:\Users\joaop\source\repos\canalArtigas\conversorTemperaturas\obj\Debug\netcoreapp3.1\conversorTemperaturas.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\canalArtigas\conversorTemperaturas\obj\Debug\netcoreapp3.1\conversorTemperaturas.AssemblyInfo.cs
+C:\Users\joaop\source\repos\canalArtigas\conversorTemperaturas\obj\Debug\netcoreapp3.1\conversorTemperaturas.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\canalArtigas\conversorTemperaturas\obj\Debug\netcoreapp3.1\conversorTemperaturas.dll
+C:\Users\joaop\source\repos\canalArtigas\conversorTemperaturas\obj\Debug\netcoreapp3.1\conversorTemperaturas.pdb
+C:\Users\joaop\source\repos\canalArtigas\conversorTemperaturas\obj\Debug\netcoreapp3.1\conversorTemperaturas.genruntimeconfig.cache
