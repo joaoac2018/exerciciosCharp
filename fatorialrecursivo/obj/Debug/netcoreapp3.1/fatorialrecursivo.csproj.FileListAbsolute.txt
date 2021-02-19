@@ -1,0 +1,13 @@
+C:\Users\joaop\source\repos\exerciciosC#\fatorialrecursivo\bin\Debug\netcoreapp3.1\fatorialrecursivo.exe
+C:\Users\joaop\source\repos\exerciciosC#\fatorialrecursivo\bin\Debug\netcoreapp3.1\fatorialrecursivo.deps.json
+C:\Users\joaop\source\repos\exerciciosC#\fatorialrecursivo\bin\Debug\netcoreapp3.1\fatorialrecursivo.runtimeconfig.json
+C:\Users\joaop\source\repos\exerciciosC#\fatorialrecursivo\bin\Debug\netcoreapp3.1\fatorialrecursivo.runtimeconfig.dev.json
+C:\Users\joaop\source\repos\exerciciosC#\fatorialrecursivo\bin\Debug\netcoreapp3.1\fatorialrecursivo.dll
+C:\Users\joaop\source\repos\exerciciosC#\fatorialrecursivo\bin\Debug\netcoreapp3.1\fatorialrecursivo.pdb
+C:\Users\joaop\source\repos\exerciciosC#\fatorialrecursivo\obj\Debug\netcoreapp3.1\fatorialrecursivo.csprojAssemblyReference.cache
+C:\Users\joaop\source\repos\exerciciosC#\fatorialrecursivo\obj\Debug\netcoreapp3.1\fatorialrecursivo.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\exerciciosC#\fatorialrecursivo\obj\Debug\netcoreapp3.1\fatorialrecursivo.AssemblyInfo.cs
+C:\Users\joaop\source\repos\exerciciosC#\fatorialrecursivo\obj\Debug\netcoreapp3.1\fatorialrecursivo.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\exerciciosC#\fatorialrecursivo\obj\Debug\netcoreapp3.1\fatorialrecursivo.dll
+C:\Users\joaop\source\repos\exerciciosC#\fatorialrecursivo\obj\Debug\netcoreapp3.1\fatorialrecursivo.pdb
+C:\Users\joaop\source\repos\exerciciosC#\fatorialrecursivo\obj\Debug\netcoreapp3.1\fatorialrecursivo.genruntimeconfig.cache
