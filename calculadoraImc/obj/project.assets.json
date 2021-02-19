@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaop\\source\\repos\\canalArtigas\\calculadoraImc\\calculadoraImc.csproj",
+      "projectUniqueName": "C:\\Users\\joaop\\source\\repos\\exerciciosC#\\calculadoraImc\\calculadoraImc.csproj",
       "projectName": "calculadoraImc",
-      "projectPath": "C:\\Users\\joaop\\source\\repos\\canalArtigas\\calculadoraImc\\calculadoraImc.csproj",
+      "projectPath": "C:\\Users\\joaop\\source\\repos\\exerciciosC#\\calculadoraImc\\calculadoraImc.csproj",
       "packagesPath": "C:\\Users\\joaop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaop\\source\\repos\\canalArtigas\\calculadoraImc\\obj\\",
+      "outputPath": "C:\\Users\\joaop\\source\\repos\\exerciciosC#\\calculadoraImc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
