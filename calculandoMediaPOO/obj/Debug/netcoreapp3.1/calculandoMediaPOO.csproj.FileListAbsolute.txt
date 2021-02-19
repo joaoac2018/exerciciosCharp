@@ -1,0 +1,13 @@
+C:\Users\joaop\source\repos\exerciciosC#\calculandoMediaPOO\obj\Debug\netcoreapp3.1\calculandoMediaPOO.csprojAssemblyReference.cache
+C:\Users\joaop\source\repos\exerciciosC#\calculandoMediaPOO\obj\Debug\netcoreapp3.1\calculandoMediaPOO.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\exerciciosC#\calculandoMediaPOO\obj\Debug\netcoreapp3.1\calculandoMediaPOO.AssemblyInfo.cs
+C:\Users\joaop\source\repos\exerciciosC#\calculandoMediaPOO\obj\Debug\netcoreapp3.1\calculandoMediaPOO.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\exerciciosC#\calculandoMediaPOO\bin\Debug\netcoreapp3.1\calculandoMediaPOO.exe
+C:\Users\joaop\source\repos\exerciciosC#\calculandoMediaPOO\bin\Debug\netcoreapp3.1\calculandoMediaPOO.deps.json
+C:\Users\joaop\source\repos\exerciciosC#\calculandoMediaPOO\bin\Debug\netcoreapp3.1\calculandoMediaPOO.runtimeconfig.json
+C:\Users\joaop\source\repos\exerciciosC#\calculandoMediaPOO\bin\Debug\netcoreapp3.1\calculandoMediaPOO.runtimeconfig.dev.json
+C:\Users\joaop\source\repos\exerciciosC#\calculandoMediaPOO\bin\Debug\netcoreapp3.1\calculandoMediaPOO.dll
+C:\Users\joaop\source\repos\exerciciosC#\calculandoMediaPOO\bin\Debug\netcoreapp3.1\calculandoMediaPOO.pdb
+C:\Users\joaop\source\repos\exerciciosC#\calculandoMediaPOO\obj\Debug\netcoreapp3.1\calculandoMediaPOO.dll
+C:\Users\joaop\source\repos\exerciciosC#\calculandoMediaPOO\obj\Debug\netcoreapp3.1\calculandoMediaPOO.pdb
+C:\Users\joaop\source\repos\exerciciosC#\calculandoMediaPOO\obj\Debug\netcoreapp3.1\calculandoMediaPOO.genruntimeconfig.cache
