@@ -1,0 +1,13 @@
+C:\Users\joaop\source\repos\exerciciosC#\sequenciaFibonacci\bin\Debug\netcoreapp3.1\sequenciaFibonacci.exe
+C:\Users\joaop\source\repos\exerciciosC#\sequenciaFibonacci\bin\Debug\netcoreapp3.1\sequenciaFibonacci.deps.json
+C:\Users\joaop\source\repos\exerciciosC#\sequenciaFibonacci\bin\Debug\netcoreapp3.1\sequenciaFibonacci.runtimeconfig.json
+C:\Users\joaop\source\repos\exerciciosC#\sequenciaFibonacci\bin\Debug\netcoreapp3.1\sequenciaFibonacci.runtimeconfig.dev.json
+C:\Users\joaop\source\repos\exerciciosC#\sequenciaFibonacci\bin\Debug\netcoreapp3.1\sequenciaFibonacci.dll
+C:\Users\joaop\source\repos\exerciciosC#\sequenciaFibonacci\bin\Debug\netcoreapp3.1\sequenciaFibonacci.pdb
+C:\Users\joaop\source\repos\exerciciosC#\sequenciaFibonacci\obj\Debug\netcoreapp3.1\sequenciaFibonacci.csprojAssemblyReference.cache
+C:\Users\joaop\source\repos\exerciciosC#\sequenciaFibonacci\obj\Debug\netcoreapp3.1\sequenciaFibonacci.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\exerciciosC#\sequenciaFibonacci\obj\Debug\netcoreapp3.1\sequenciaFibonacci.AssemblyInfo.cs
+C:\Users\joaop\source\repos\exerciciosC#\sequenciaFibonacci\obj\Debug\netcoreapp3.1\sequenciaFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\exerciciosC#\sequenciaFibonacci\obj\Debug\netcoreapp3.1\sequenciaFibonacci.dll
+C:\Users\joaop\source\repos\exerciciosC#\sequenciaFibonacci\obj\Debug\netcoreapp3.1\sequenciaFibonacci.pdb
+C:\Users\joaop\source\repos\exerciciosC#\sequenciaFibonacci\obj\Debug\netcoreapp3.1\sequenciaFibonacci.genruntimeconfig.cache
